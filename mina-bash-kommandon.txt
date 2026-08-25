@@ -1,0 +1,8 @@
+kommandon jag har använt:
+pwd- visar vilken mapp jag befinner mig i 
+ls- visar vilka filer och mappar som finns i mappen.
+cd- användas för att gå till en annan mapp.
+mkdir - används för att skapa en ny mapp.
+touch - används för att skapa en ny fil.
+cat - visar innehållet i en textfill.
+code . - öppnar den aktuella mappen i Visual Studio Code.
